@@ -1,3 +1,5 @@
+package tier1;
+
 public class SquareRootOfANumber {
 
     static int n;
